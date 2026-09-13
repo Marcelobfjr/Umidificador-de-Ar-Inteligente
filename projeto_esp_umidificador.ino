@@ -11,8 +11,8 @@
 #define UMIDADE_MAXIMA 70.0
 
 //wifi
-const char* ssid = "FESP-CORP";
-const char* password = "Be@gle2020";
+const char* ssid = "";
+const char* password = "";
 
 //dht11
 #define PINO_DHT 15           // pino gpio onde o sensor tá conectado
